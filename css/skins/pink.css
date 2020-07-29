@@ -1,0 +1,19 @@
+.aside .logo a::before{
+    border-top: 4px solid#ec1839; border-left: 4px solid#ec1839;
+}
+.aside .logo a::after{
+    border-bottom: 4px solid#ec1839; border-right: 4px solid#ec1839;
+}
+body.dark .portfolio .portfolio-filter button.active,.contact .whatsapp a, 
+.lightbox .lightbox-controls .prev-item .fa, body.dark .aside .nav li a.active, body.dark .aside .nav li a:hover,
+.lightbox .lightbox-controls .next-item .fa,.about .about-content .about-text h3 span,  .contact .contact-info-item .icon .fa, .portfolio .portfolio-item .portfolio-info .icon .fa, .portfolio .portfolio-filter button.active, .aside .nav li a:hover,.aside .nav li a.active, .service .service-item .service-item-inner .icon .fa{
+    color: #ec1839;
+}
+.testimonial .carousel-indicators li.active,
+.btn, .about .about-content .skills .skill-item .progress .progress-in, .contact-info a, .contact .link a, .service .service-item .service-item-inner:hover  .icon, .section-title h2::before, .section-title h2::after, .aside .nav-toggler span, .aside .nav-toggler span::before,.aside .nav-toggler span::after, .home .intro .social-link a{
+    background-color:#ec1839 ;
+}
+body.dark .portfolio .portfolio-filter button.active,  .testimonial .carousel-indicators li,
+.portfolio .portfolio-filter button.active{
+    border-color:#ec1839 ;
+}
